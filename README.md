@@ -5,7 +5,7 @@
    
   Easy way to keep track of your todo list. You can add notes and it stores it locally. You can also delete notes.  
 
-Link to deployed application: 
+Link to deployed application: https://quiet-river-20448.herokuapp.com/ 
 
 ![11-express-homework-demo-01](https://user-images.githubusercontent.com/123133727/236912468-ddb999a0-9e6d-4b29-90d7-dcf3510f096f.png)
 
